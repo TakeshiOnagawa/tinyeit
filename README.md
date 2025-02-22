@@ -5,7 +5,6 @@
 
 #　要素
 下記の要素を含んでいます。
-
 - VCCS
 - Potencial Amplifier
 
